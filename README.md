@@ -1,10 +1,10 @@
 # Candy87: A universal TKL PCB
-The Candy87 PCB was exclusively made for and in cooperation with [Candykeys](https://candykeys.com/) and designed to fit the Geonworks F1-8X V2 and other TKL keyboards with a H87 (F12) or H88 (F13) footprint.
+The Candy87 PCB was exclusively made for and in cooperation with [Candykeys](https://candykeys.com/) and designed to fit the Geonworks F1-8X V2 and other TKL keyboards with H87/H88 footprint.
 
 TODO: Image
 
 ## Features
-- H87 and H88 Compatible
+- H87/H88 Compatible
 - ISO and ANSI Support (ANSI needs to resolder 2 hotswap sockets)
 - Standard and Tsangan Bottom Row
 - Breakable USB-C Port (Daughterboard can be used with JST)
