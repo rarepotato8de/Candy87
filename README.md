@@ -1,7 +1,7 @@
 # Candy87: A universal TKL PCB
 The Candy87 Hotswap PCB was exclusively made for and in cooperation with [Candykeys](https://candykeys.com/) and designed to fit the Geonworks F1-8X V2 and other TKL keyboards that are using a H87/H88 footprint. It supports ISO, ANSI and both 6.25U and 7U bottom row.
 
-TODO: Image
+![Candy87_Top_View](https://github.com/user-attachments/assets/232b2038-8ebe-4651-b32d-1656d3a3d183)
 
 ## Features
 - H87 & H88 Compatible
