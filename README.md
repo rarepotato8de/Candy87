@@ -1,5 +1,5 @@
 # Candy87: A universal TKL PCB
-The Candy87 PCB was exclusively made for [Candykeys](https://candykeys.com/) and designed to fit the Geonworks F1-8X V2 and other TKL keyboards with a H87 (F12) or H88 (F13) footprint. The project came up in the beginning of 2024 when Geonworks announced another groupbuy for his popular keyboard, the F1-8X V2. It's now being offered by multiple international vendors like Candykeys for Europe. For european fellas, Candykeys wanted to offer an ISO hotswap PCB. So we talked, made plans and finally build this whole project together! I'm super honored to be part of it.
+The Candy87 PCB was exclusively made for and in cooperation with [Candykeys](https://candykeys.com/) and designed to fit the Geonworks F1-8X V2 and other TKL keyboards with a H87 (F12) or H88 (F13) footprint.
 
 TODO: Image
 
@@ -31,3 +31,5 @@ TODO: Soon
 ## Revisions
 
 ## More words
+
+The project came up in the beginning of 2024 when Geonworks announced another groupbuy for his popular keyboard, the F1-8X V2. It's now being offered by multiple international vendors like Candykeys for Europe. For european fellas, Candykeys wanted to offer an ISO hotswap PCB. So we talked, made plans and finally build this whole project together! I'm super honored to be part of it.
