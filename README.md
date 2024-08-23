@@ -15,7 +15,7 @@ The Candy87 Hotswap PCB was exclusively made for and in cooperation with [Candyk
 - QMK/VIAL Support
 
 ## Firmware & Flashing
-QMK and VIAL firmwares are available in the official repositories. The compiled VIAL firmware can be found here.
+QMK and VIAL firmwares are available in their repositories. The compiled VIAL firmware can be found here.
 
 To flash the PCB the first time, you just have to plug it into your computer via. USB-C or Daughterboard and then in your explorer there should appear a new drive medium called "RPI-RP2" or similar. Just drag&drop the .UF2 file onto the drive and the window should automatically close and the PCB will now be flashed and functional.
 For flashing it another time, plug in the PCB and hold down the "BOOT" button on the backside of the PCB, press the "RESET" button two times and then release the "BOOT" button again. After that the "RPI-RP2" medium should appear.
@@ -41,13 +41,13 @@ For flashing it another time, plug in the PCB and hold down the "BOOT" button on
 https://github.com/user-attachments/assets/5fa9985e-4570-457c-9966-bd2f55c6e134
 
 ## Open Source
-This project will be open sourced in the future!
+This project will be open sourced in the future! Stay tuned..
 
-## Infos about this project
+## Start of this project
 The project came up in the beginning of 2024 when Geonworks announced another groupbuy for his popular keyboard, the F1-8X V2. For european fellas, Candykeys wanted to offer an ISO hotswap PCB. So we talked, made plans and finally built this awesome project together!
-There was a lot demand for it, people were interested and excited for it and me too! So I'm super honored to be part of this and will look forward for further projects. 
+There was a lot demand for it, people were interested and excited for it and me too! So I'm super honored to be part of this and will look forward for further projects. The Candy87 is the first project I've ever done in cooperation with a company, so I gave my best at all time. Even though we have had an issue with our first prototype, because of switch interference, the second version not only fixed this issue, but was improved even more. From the beginning it was made to be open source, because both Candykeys and I are a fan of this concept.
 
 Big shoutout and thanks to @zitres 🍋🍋 and @candykeys 💙
 
 ## Questions?
-Feel free to message me and ask me anything you like. I'm happy to help.
+Feel free to message me!
