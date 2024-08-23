@@ -1,11 +1,11 @@
 # Candy87: A universal TKL PCB 💙
-The Candy87 Hotswap PCB was exclusively made for and in cooperation with [Candykeys](https://candykeys.com/) and designed to fit the Geonworks F1-8X V2 and other TKL keyboards. It supports many layout options and awesome features such as breakable USB-C port or indicator LED's!
+The Candy87 Hotswap PCB was exclusively made for and in cooperation with [Candykeys](https://candykeys.com/) and designed to fit the Geonworks F1-8X V2 and other TKL keyboards. It supports many layout options and has awesome features such as a breakable USB-C port or indicator LED's!
 
 ![Candy87_Top_View](https://github.com/user-attachments/assets/232b2038-8ebe-4651-b32d-1656d3a3d183)
 
 ## Features
 - H87/H88 Compatible
-- ISO and/or ANSI Support (See layout notes!)
+- ISO and/or ANSI Support (See supported layout notes!)
 - Standard and Tsangan Bottom Row
 - O-Ring Cutouts
 - Breakable USB-C Port (Daughterboard can be used with JST)
