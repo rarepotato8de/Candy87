@@ -12,7 +12,6 @@ The Candy87 Hotswap PCB was exclusively made for and in cooperation with [Candyk
 - Indicator LED's for Caps- and Scrolllock
 - RP2040 Chip
 - Broken-out GPIO Pins
-- Physical BOOT and RESET Button (for flashing)
 - QMK/VIAL Support
 
 ## Firmware & Flashing
