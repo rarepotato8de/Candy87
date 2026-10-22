@@ -15,7 +15,7 @@ The Candy87 Hotswap PCB was exclusively made for and in cooperation with [Candyk
 - QMK/VIAL Support
 
 ## Firmware & Flashing
-[QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/candykeys/candy87) and [VIAL](https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/candykeys/candy87) firmwares are available in their repositories. The compiled VIAL firmware can be found [here](https://github.com/rarepotato8de/Candy87/blob/main/candy87_vial.uf2).
+[QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/candykeys/candy87) and [VIAL](https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/candykeys/candy87) firmwares are available in their repositories. The compiled VIAL firmware can be found [here](https://github.com/rarepotato8de/Candy87/blob/main/firmware/Candy87_DEFAULT.uf2).
 
 To flash the PCB the first time, you just have to plug it into your computer via. USB-C or Daughterboard and then in your explorer there should appear a new drive medium called "RPI-RP2" or similar. Just drag&drop the .UF2 file onto the drive and the window should automatically close and the PCB will now be flashed and functional.
 For flashing it another time, plug in the PCB and hold down the "BOOT" button on the backside of the PCB, press the "RESET" button two times and then release the "BOOT" button again. After that the "RPI-RP2" medium should appear.
@@ -41,7 +41,23 @@ For flashing it another time, plug in the PCB and hold down the "BOOT" button on
 https://github.com/user-attachments/assets/5fa9985e-4570-457c-9966-bd2f55c6e134
 
 ## Open Source
-This project will be open sourced in the future! Stay tuned..
+
+Candy87 was only possible thanks to other open-source projects and libraries (see [Credits](#credits)), so it's open source as well!
+You can even order the PCB yourself with the provided files for JLCPCB, and it's pretty affordable :)
+
+## Credits
+
+This project would not exist without these open-source libraries and projects. Massive thanks to all of them!
+
+| Library | Author | Source |
+|---|---|---|
+| marbastlib | ebastler & contributors | [github.com/ebastler/marbastlib](https://github.com/ebastler/marbastlib) |
+| MX_Alps_Hybrid, MX_Only | ai03 | [github.com/ai03-2725/MX_Alps_Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid) |
+| random-keyboard-parts | ai03 | [github.com/ai03-2725/random-keyboard-parts.pretty](https://github.com/ai03-2725/random-keyboard-parts.pretty) |
+| bakeneko-60-pcb-rescue | kkatano | [github.com/kkatano/bakeneko-60](https://github.com/kkatano/bakeneko-60) |
+| RP2040 libraries | Raspberry Pi Ltd | [datasheets.raspberrypi.com](https://datasheets.raspberrypi.com/) |
+
+License texts can be found in [`hardware/libs/licenses/`](hardware/libs/licenses/).
 
 ## Start of this project
 The project came up in the beginning of 2024 when Geonworks announced another groupbuy for his popular keyboard, the F1-8X V2. For european fellas, Candykeys wanted to offer an ISO hotswap PCB. So we talked, made plans and finally built this awesome project together!
